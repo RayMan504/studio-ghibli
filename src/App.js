@@ -6,7 +6,7 @@ function App() {
   return (
     <div className="App">
       
-          Studio Ghibli Films
+      Studio Ghibli Films
       
 
       <Films />
